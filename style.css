@@ -1,0 +1,77 @@
+.donebutton{
+    margin-left: 30%;
+    height: 40px;
+    width: 5%;
+    background: none;
+    color: #ed053b;
+    border-style: none;
+    font-size: 100%;
+}
+.deletebutton{
+    height: 40px;
+    width: 5%;
+    background: none;
+    color: #ed053b;
+    border-style: none;
+    font-size: 100%;
+}
+.editbutton{
+    height: 40px;
+    width: 5%;
+    background: none;
+    color: #ed053b;
+    border-style: none;
+    font-size: 100%;
+}
+body{
+    background-color: black;
+}
+p{
+    background-color: black;
+    width: 70%;
+    font-size: 100%;
+    text-align: center;
+    font-weight: 500;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 35px;
+    color: #ed053b;
+    border-color: black;
+    font-weight: 300;
+    height: 50px;
+    -webkit-box-shadow: 0px 2px 49px 11px rgba(237,5,59,1);
+    -moz-box-shadow: 0px 2px 49px 11px rgba(237,5,59,1);
+    box-shadow: 0px 2px 49px 11px rgba(237,5,59,1);
+    margin-top: 3%;
+}
+input{
+    font-size: 200%;
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: black;
+    color: #ed053b;
+    -webkit-box-shadow: 0px 2px 49px 11px rgba(19,235,7,1);
+-moz-box-shadow: 0px 2px 49px 11px rgba(19,235,7,1);
+box-shadow: 0px 2px 49px 11px rgba(19,235,7,1);
+margin-left: 36%;
+}
+.todocontainer{
+    margin-top: 2%;
+    margin-left: 20%;
+}
+#addtodo{
+    font-size: 170%;
+    margin-left: 2%;
+    background-color: black;
+    color: #ed053b;
+    border-width: 1px;
+    height: 50px;
+    width: 5%;
+    -webkit-box-shadow: 17px 31px 49px -15px rgba(0,0,0,0.81);
+-moz-box-shadow: 17px 31px 49px -15px rgba(0,0,0,0.81);
+box-shadow: 17px 31px 49px -15px rgba(0,0,0,0.81);
+}
+.overall{
+    margin-top: 5%;
+}
